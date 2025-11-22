@@ -23,6 +23,20 @@ https://npd.cwa.gov.tw/NPD/irisme_data/Weather/SKEWT/SKW___000_25092000_46750.gi
 
 地面天氣圖
 https://www.cwa.gov.tw/Data/fcst_img/2025-0920-0600_SFCcombo.jpg
+地面天氣圖黑白
+https://npd.cwa.gov.tw/NPD/irisme_data/Weather/ANALYSIS/GRA___000_25112200_103.gif
+高空天氣圖925
+https://npd.cwa.gov.tw/NPD/irisme_data/Weather/HLANALYSIS/GRA___000_25111200_022.gif
+高空天氣圖850
+https://npd.cwa.gov.tw/NPD/irisme_data/Weather/HLANALYSIS/GRA___000_25111200_001.gif
+高空天氣圖700
+https://npd.cwa.gov.tw/NPD/irisme_data/Weather/HLANALYSIS/GRA___000_25111200_002.gif
+高空天氣圖500
+https://npd.cwa.gov.tw/NPD/irisme_data/Weather/HLANALYSIS/GRA___000_25111200_003.gif
+高空天氣圖300
+https://npd.cwa.gov.tw/NPD/irisme_data/Weather/HLANALYSIS/GRA___000_25111200_004.gif
+高空天氣圖200
+https://npd.cwa.gov.tw/NPD/irisme_data/Weather/HLANALYSIS/GRA___000_25111200_005.gif
 
 氣溫
 https://www.cwa.gov.tw/Data/temperature/2025-11-22_2000.GTP8w.jpg

@@ -381,11 +381,11 @@ def run(document_path: Path, options: CrawlOptions) -> None:
 def main() -> None:
     document_path = Path("document/cwa.txt")
     options = CrawlOptions(
-        fast_days=7.0,
-        hourly_days=7.0,
-        daily_days=7.0,
-        slow_days=7.0,
-        max_failures=12,
+        fast_days=14.0,
+        hourly_days=14.0,
+        daily_days=14.0,
+        slow_days=14.0,
+        max_failures=3,
         since=None,
         output_root=Path("report_images"),
         dry_run=False,
