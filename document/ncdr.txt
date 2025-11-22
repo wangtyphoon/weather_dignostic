@@ -1,0 +1,15 @@
+1.地面風場
+https://watch.ncdr.nat.gov.tw/00_Wxmap/5A7_CWB_WINDMAP/202509/windmap_202509242000.png
+https://watch.ncdr.nat.gov.tw/00_Wxmap/5A7_CWB_WINDMAP/202509/windmap_202509241900.png
+2.200hpa 分析場
+https://watch.ncdr.nat.gov.tw/00_Wxmap/2F7_ECMWF_0.25deg/202509/2025092400/ECMWF200_2025092400_f000.gif
+https://watch.ncdr.nat.gov.tw/00_Wxmap/2F7_ECMWF_0.25deg/202509/2025092312/ECMWF200_2025092312_f000.gif
+3.500hpa 分析場
+https://watch.ncdr.nat.gov.tw/00_Wxmap/2F7_ECMWF_0.25deg/202509/2025092400/ECMWF500_2025092400_f000.gif
+https://watch.ncdr.nat.gov.tw/00_Wxmap/2F7_ECMWF_0.25deg/202509/2025092312/ECMWF500_2025092312_f000.gif
+4.850hpa 分析場
+https://watch.ncdr.nat.gov.tw/00_Wxmap/2F7_ECMWF_0.25deg/202509/2025092400/ECMWF850_2025092400_f000.gif
+https://watch.ncdr.nat.gov.tw/00_Wxmap/2F7_ECMWF_0.25deg/202509/2025092312/ECMWF850_2025092312_f000.gif
+5.區域地面風場
+https://watch.ncdr.nat.gov.tw/00_Wxmap/5F1_NCDR_WRF_5km_precipitation/05days/202511/112000_N01/surface/d03_sfc-2025112000-112000.gif
+https://watch.ncdr.nat.gov.tw/00_Wxmap/5F1_NCDR_WRF_5km_precipitation/05days/202511/111912_N01/surface/d03_sfc-2025111912-111912.gif

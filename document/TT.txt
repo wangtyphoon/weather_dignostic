@@ -1,0 +1,12 @@
+https://www.tropicaltidbits.com/analysis/models/ecmwf/2025111600/ecmwf_mslp_uv850_asia_1.png
+https://www.tropicaltidbits.com/analysis/models/ecmwf/2025111606/ecmwf_uv250_asia_1.png
+https://www.tropicaltidbits.com/analysis/models/ecmwf/2025111606/ecmwf_z500a_asia_1.png
+https://www.tropicaltidbits.com/analysis/models/ecmwf/2025111606/ecmwf_mslp_uv850_asia_1.png
+https://www.tropicaltidbits.com/analysis/models/ecmwf/2025111606/ecmwf_mslp_wind_asia_1.png
+https://www.tropicaltidbits.com/analysis/models/ecmwf/2025111606/ecmwf_z500_mslp_asia_1.png
+https://www.tropicaltidbits.com/analysis/models/ecmwf/2025111600/ecmwf_mslp_uv850_ea_1.png
+https://www.tropicaltidbits.com/analysis/models/ecmwf/2025111606/ecmwf_uv250_ea_1.png
+https://www.tropicaltidbits.com/analysis/models/ecmwf/2025111606/ecmwf_z500a_ea_1.png
+https://www.tropicaltidbits.com/analysis/models/ecmwf/2025111606/ecmwf_mslp_uv850_ea_1.png
+https://www.tropicaltidbits.com/analysis/models/ecmwf/2025111606/ecmwf_mslp_wind_ea_1.png
+https://www.tropicaltidbits.com/analysis/models/ecmwf/2025111606/ecmwf_z500_mslp_ea_1.png
