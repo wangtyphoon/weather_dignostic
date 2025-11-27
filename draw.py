@@ -215,9 +215,11 @@ def main():
         cmap='bwr', extend='both',
         transform=proj
     )
+    z300_clim_min = float(np.floor(np.nanmin(Z300_clim) / 80) * 80)
+    z300_clim_max = float(np.ceil(np.nanmax(Z300_clim) / 80) * 80)
     c_a = axes[0].contour(
-        lon, lat, Z300_t,
-        levels=np.arange(Z300_t.min(), Z300_t.max(), 80),
+        lon, lat, Z300_clim,
+        levels=np.arange(z300_clim_min, z300_clim_max + 1e-6, 80),
         colors='k', linewidths=1,
         transform=proj
     )
@@ -233,9 +235,11 @@ def main():
         cmap=PVU_CMAP, extend='both',
         transform=proj
     )
+    theta_clim_min = float(np.floor(np.nanmin(THETA2_clim) / 4) * 4)
+    theta_clim_max = float(np.ceil(np.nanmax(THETA2_clim) / 4) * 4)
     c_b = axes[1].contour(
-        lon, lat, THETA2_t,
-        levels=np.arange(THETA2_t.min(), THETA2_t.max(), 4),
+        lon, lat, THETA2_clim,
+        levels=np.arange(theta_clim_min, theta_clim_max + 1e-6, 5),
         colors='k', linewidths=1,
         transform=proj
     )
